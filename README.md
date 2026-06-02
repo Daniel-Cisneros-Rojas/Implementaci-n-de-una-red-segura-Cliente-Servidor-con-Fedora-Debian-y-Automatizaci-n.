@@ -1,4 +1,4 @@
-# Implementaci-n-de-una-red-segura-Cliente-Servidor-con-Fedora-Debian-y-Automatizaci-n.
+# Implementacion-de-una-red-segura-Cliente-Servidor-con-Fedora-Debian-y-Automatizacion.
 Este proyecto consiste en la implementación de una red segura cliente-servidor utilizando Fedora y Debian, con un enfoque en la automatización y la protección del sistema. Se desarrolló un entorno completo que abarca desde la configuración inicial de la red hasta la administración avanzada de recursos y seguridad.
 
 <img width="921" height="429" alt="image" src="https://github.com/user-attachments/assets/c719a55d-d008-4906-bbe1-519032db8086" />
